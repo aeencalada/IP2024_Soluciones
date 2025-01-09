@@ -1,0 +1,10 @@
+Juan Carlos,M,12
+Pedro José,M,28
+Ana María,F,32
+Rosa Emilia,F,9
+Carlos Alberto,M,55
+Miguel Ángel,M,73
+Andrea Alicia,F,45
+Manuel Antonio,M,38
+Rubén Dario,M,23
+María del Carmen,F,63
