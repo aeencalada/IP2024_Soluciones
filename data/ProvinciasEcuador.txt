@@ -1,0 +1,24 @@
+Azuay:712127:8639
+Bolívar:183641:3254
+Cañar:225184:3908
+Carchi:164524:3699
+Chimborazo:458581:5287
+Cotopaxi:409205:6569
+El Oro:600659:5988
+Esmeraldas:491168:14893
+Galápagos:25124:8010
+Guayas:3645483:17139
+Imbabura:398244:4599
+Loja:453966:11027
+Los Ríos:778115:6254
+Manabí:1369780:18400
+Morona Santiago:147940:25690
+Napo:103697:13271
+Orellana:136396:21675
+Pastaza:83933:29520
+Pichincha:2576287:9612
+Santa Elena:308693:3763
+Santo Domingo de los Tsáchilas:410937:4180
+Sucumbíos:176472:18612
+Tungurahua:504583:3334
+Zamora Chinchipe:91376:10556
