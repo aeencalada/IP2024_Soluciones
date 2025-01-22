@@ -1,0 +1,5 @@
+Loja,16
+Azuay,15
+Guayas,25
+Pichincha,8
+Manabí,22
