@@ -1,5 +1,6 @@
 package estadisticasvector1;
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class EstadisticasVector1 {
@@ -8,13 +9,13 @@ public class EstadisticasVector1 {
         Scanner sc = new Scanner(System.in);
         int n = 0;
         boolean datovalido = false;
-        
+
         do {
             try {
                 System.out.print("Ingrese el tamaño del vector: ");
                 n = sc.nextInt();
                 if (n < 0) {
-                    throw new Exception ("Debe ingresar un entero positivo!");
+                    throw new Exception("Debe ingresar un entero positivo!");
                 }
                 datovalido = true;
             } catch (InputMismatchException error) {
@@ -24,7 +25,7 @@ public class EstadisticasVector1 {
                 System.err.println("ERROR: " + error.getMessage());
             }
         } while (!datovalido);
-        
+
         int[] vector = new int[n];
 
         System.out.println();
@@ -41,7 +42,7 @@ public class EstadisticasVector1 {
                 }
             } while (!datovalido);
         }
-        
+
         mostrarVector(vector);
         System.out.println("\nEl promedio del vector es: " + promedioVector(vector));
         System.out.println("\nEl rango del vector es: " + rangoVector(vector));
